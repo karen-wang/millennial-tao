@@ -1,5 +1,7 @@
 ---
 title: "Your Amazon.com Order is Killing Whales"
+layout: post
+tags: shopping, consumerism, whales, mackinnon
 date: 2021-09-11
 ---
 
