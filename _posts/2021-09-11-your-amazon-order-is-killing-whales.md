@@ -7,7 +7,7 @@ date: 2021-09-11
 > shipping vessels, the ones that bring us all that stuff. Besieged by sublethal impacts, the health of North Atlantic right whales has visibly worsened. They are
 > thinner than they were three decades ago, more heavily infested with whale lice, and more marked by lesions and scars; the females give birth to fewer calves. “
 
-> --J.B. MacKinnon, _The Day the World Stops Shopping_
+> -- J.B. MacKinnon, _The Day the World Stops Shopping_
 
 I read this today after spending the morning shopping for an iPhone case on Amazon - part of the endless mountain of aforementioned stuff.
 
