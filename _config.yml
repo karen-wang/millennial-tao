@@ -1,9 +1,9 @@
 title: The Millennial Tao
-author: kywang
+# author: kywang
 email: kywang@millennialtao.com
 description: Welcome to my blog.
 # social links
-github_username:  karen-wang # DO NOT include the @ character, or else the build will fail!
+# github_username:  karen-wang # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
