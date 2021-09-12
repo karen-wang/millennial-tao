@@ -5,7 +5,7 @@ tags: shopping, consumerism, whales, mackinnon
 date: 2021-09-11
 ---
 
-> “Clark calls day-to-day life for North Atlantic right whales 'acoustic hell.'…The main source of all that noise of the propellers and engines of commercial
+> “Clark calls day-to-day life for North Atlantic right whales 'acoustic hell'…The main source of all that noise of the propellers and engines of commercial
 > shipping vessels, the ones that bring us all that stuff. Besieged by sublethal impacts, the health of North Atlantic right whales has visibly worsened. They are
 > thinner than they were three decades ago, more heavily infested with whale lice, and more marked by lesions and scars; the females give birth to fewer calves. “
 
